@@ -1,5 +1,8 @@
 # Arduino-Seven-Segment-Display-Counter
-This is a [Viral Science](https://www.viralsciencecreativity.com/post/arduino-seven-segment-display-counter-push-button-code-explanation) project. The user presses a button to count up. The number is displayed on the 7 segment display.
+
+September 29, 2021
+
+This is a [Viral Science](https://www.viralsciencecreativity.com/post/arduino-seven-segment-display-counter-push-button-code-explanation) Arduino breadboard project. The user presses a button to count up. The number is displayed on the 7 segment display.
 
 ![image](https://user-images.githubusercontent.com/93152842/190871410-6e6d7f90-492f-41e1-8c09-e1fc1fa4d25a.png)
 *Check out the [Youtube video](https://youtu.be/L_pGa1Vtc3E) for a demo!*
